@@ -1,0 +1,6 @@
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\bin\Debug\SchoolApp.exe.config
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\bin\Debug\SchoolApp.exe
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\bin\Debug\SchoolApp.pdb
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.csprojResolveAssemblyReference.cache
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.exe
+C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.pdb
