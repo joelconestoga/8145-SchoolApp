@@ -4,3 +4,9 @@ C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\bin\De
 C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.csprojResolveAssemblyReference.cache
 C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.exe
 C:\Users\joel\Documents\COLLEGE\8145-sdt\GroupProject\ConsoleApplication1\obj\Debug\SchoolApp.pdb
+C:\Users\shubh\Desktop\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\bin\Debug\SchoolApp.exe.config
+C:\Users\shubh\Desktop\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\obj\Debug\SchoolApp.exe
+C:\Users\shubh\Desktop\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\obj\Debug\SchoolApp.pdb
+C:\Users\shubh\Desktop\Final Assignments\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\bin\Debug\SchoolApp.exe.config
+C:\Users\shubh\Desktop\Final Assignments\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\obj\Debug\SchoolApp.exe
+C:\Users\shubh\Desktop\Final Assignments\CSharpTermProject\8145-SchoolApp\ConsoleApplication1\obj\Debug\SchoolApp.pdb

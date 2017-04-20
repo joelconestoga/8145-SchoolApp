@@ -5,7 +5,8 @@ using System.Text;
 
 namespace SchoolApp
 {
-    public class Student
+    public class Teacher
     {
+        
     }
 }

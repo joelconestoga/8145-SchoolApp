@@ -5,21 +5,9 @@ using System.Text;
 
 namespace SchoolApp
 {
-    public class Schedule
+    public class Classroom
     {
-        public ClassRoom ClassRoom
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
-
-        public Subject Subject
+        public School School
         {
             get
             {
