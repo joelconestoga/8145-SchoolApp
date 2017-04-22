@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace SchoolApp
 {
-    class Program
+    class School
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
+
         }
     }
 }
